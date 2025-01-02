@@ -42,3 +42,13 @@ bun run dev
 ```
 
 Visit `http://localhost:3000` in your browser.
+
+### Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add YourFeature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a pull request.
