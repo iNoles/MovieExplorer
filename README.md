@@ -16,6 +16,10 @@ MovieExplorer is a web application built with Vue.js, TypeScript, and Tailwind C
 - **Tailwind CSS**: Utility-first CSS framework for building custom designs.
 - **Movie API**: API to fetch movie details and information.
 
+## Screenshot
+![Main](screenshots/main.png)
+![Detail](screenshots/detail.png)
+
 ## Getting Started
 
 To run this project locally, follow the instructions below:
